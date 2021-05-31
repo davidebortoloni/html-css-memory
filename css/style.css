@@ -103,3 +103,8 @@ header {
 .card:hover > .back {
     visibility: hidden;
 }
+
+footer {
+    text-align: center;
+    margin: 25px 0;
+}
