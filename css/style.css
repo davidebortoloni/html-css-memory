@@ -1,1 +1,31 @@
-/* font-family: 'Nerko One', cursive; */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.clearfix::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+body {
+    background-color: #ADD8E6;
+    font-family: 'Nerko One', cursive;
+}
+
+.container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+header {
+    color: white;
+    text-align: center;
+    font-size: 48px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 2px #7A9198;
+}
+
