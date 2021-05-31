@@ -34,7 +34,7 @@ header {
 }
 
 .card {
-    height: 245px;
+    height: 17.4vw;
     width: calc(calc(100% / 4) - 24px);
     float: left;
     margin: 0 12px;
@@ -69,7 +69,7 @@ header {
 }
 
 .front > .name {
-    font-size: 2.3vw;
+    font-size: 2.1vw;
 }
 
 .balloon .name {
