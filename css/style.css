@@ -65,7 +65,7 @@ header {
 }
 
 .front > img {
-    height: 70%;
+    width: 75%;
 }
 
 .front > .name {
