@@ -96,10 +96,7 @@ header {
     color: #E67919;
 }
 
-.balloon.first .back {
-    visibility: hidden;
-}
-
+.card.uncovered .back,
 .card:hover > .back {
     visibility: hidden;
 }
